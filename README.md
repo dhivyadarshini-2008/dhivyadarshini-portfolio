@@ -24,8 +24,8 @@ The website includes information about my education, interests, extracurricular 
 - Deployment:
 The website can be hosted using GitHub Pages.
 To publish it, open the repository on GitHub, go to Settings → Pages, select the main branch and the root folder, and save the settings.
-Project Purpose:
+- Project Purpose:
 I created this website to learn the basics of web development and present my personal information, activities, and achievements in an organised way.
-Author:
+- Author:
 A. Dhivyadarshini
 <img width="468" height="659" alt="image" src="https://github.com/user-attachments/assets/d0ad6cf4-f1d4-4f5f-8da2-e9e697f3e361" />
