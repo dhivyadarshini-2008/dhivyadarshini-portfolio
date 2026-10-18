@@ -20,7 +20,7 @@ The website includes information about my education, interests, extracurricular 
 2.	Extract the files if downloaded as a ZIP.
 3.	Open the project folder.
 4.	Open index.html in a web browser.
-No additional software is required to view the website.
+5. No additional software is required to view the website.
 - Deployment:
 The website can be hosted using GitHub Pages.
 To publish it, open the repository on GitHub, go to Settings → Pages, select the main branch and the root folder, and save the settings.
