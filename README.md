@@ -4,17 +4,17 @@ About the Project:
 This is a personal portfolio website created using HTML, CSS, and JavaScript. The purpose of this website is to introduce myself, showcase my achievements, and keep my projects and certificates in one place.
 The website includes information about my education, interests, extracurricular activities, and skills. It also has sections for photographs and videos from Scouts and Guides and Junior Red Cross activities.
 Features:
-•	Personal introduction and profile photo
-•	Education and skills section
-•	Projects and achievements
-•	Photo and video gallery
-•	Certificates section
-•	Interactive buttons and navigation
-•	Responsive design for desktop and mobile devices
+- Personal introduction and profile photo
+-	Education and skills section
+-	Projects and achievements
+-	Photo and video gallery
+-	Certificates section
+-	Interactive buttons and navigation
+-	Responsive design for desktop and mobile devices
 Technologies Used:
-•	HTML – to create the structure of the website
-•	CSS – to style the pages and make the layout responsive
-•	JavaScript – to add interactive features
+-	HTML – to create the structure of the website
+-	CSS – to style the pages and make the layout responsive
+-	JavaScript – to add interactive features
 How to Run the Website:
 1.	Download or clone this repository.
 2.	Extract the files if downloaded as a ZIP.
