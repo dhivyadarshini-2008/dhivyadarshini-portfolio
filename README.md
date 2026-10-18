@@ -1,7 +1,7 @@
 # dhivyadarshini-portfolio
 Personal Portfolio Website:
 About the Project:
-This is a personal portfolio website created using HTML, CSS, and JavaScript. The purpose of this website is to introduce myself, showcase my achievements, and keep my projects and certificates in one place.
+- This is a personal portfolio website created using HTML, CSS, and JavaScript. The purpose of this website is to introduce myself, showcase my achievements, and keep my projects and certificates in one place.
 The website includes information about my education, interests, extracurricular activities, and skills. It also has sections for photographs and videos from Scouts and Guides and Junior Red Cross activities.
 Features:
 - Personal introduction and profile photo
